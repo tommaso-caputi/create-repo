@@ -1,4 +1,4 @@
-# automation-new-repository
+# automation-create-repository
 
 Script for automate a github repository creation
  
