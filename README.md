@@ -4,7 +4,7 @@ Script for automate a github repository creation
  
 ### Requirements 
 ```python
-pip install python-dotenv PyGithub sys os
+pip install python-dotenv PyGithub
 ```
 
 ## Usage
